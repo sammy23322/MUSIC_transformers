@@ -28,3 +28,4 @@ def root():
 def generate_music(prompt: str):
     # Fake output for now (later we add model)
     return {"generated_music": f"Fake music generated from prompt: {prompt}"}
+
