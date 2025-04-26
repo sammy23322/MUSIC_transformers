@@ -1,6 +1,6 @@
 from fastapi import FastAPI
-from  transformers import AutoModelForCausalLM, AutoTokenizer
-from fastapi.responses import PlainTextResponse
+# from  transformers import AutoModelForCausalLM, AutoTokenizer
+# from fastapi.responses import PlainTextResponse
 
 app = FastAPI()
 
